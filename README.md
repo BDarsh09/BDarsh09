@@ -2,7 +2,7 @@
 
 #### <div align="left">Software Engineer passionate for development of webapps in mean stack technologies.</div>  
   
-- 💻 I’m currently working as Software Engineer at [Searce](https://searce.com/)  
+- 💻 I’m currently working as Software Engineer at [happierWork](https://happierwork.com/)  
 
 - 🌱 I’m currently learning NodeJs and MongoDB  
 <br/>  
