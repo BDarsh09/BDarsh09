@@ -11,7 +11,6 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
-### Tech Stack  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />
