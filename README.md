@@ -1,10 +1,10 @@
 ## Hi there 👋 Darshil Bavishi here,
 
-#### <div align="left">Software Engineer passionate for development of webapps in mean stack technologies.</div>  
+#### <div align="left">Software Engineer passionate for development of webapps in modern Javascript frameworks.</div>  
   
-- 💻 I’m currently working as Software Engineer at [happierWork](https://happierwork.com/)  
+- 💻 Software Engineer at [happierWork](https://happierwork.com/)  
 
-- 🌱 I’m currently learning NodeJs and MongoDB  
+- 🌱 Currently learning React, Node & MongoDB  
 <br/>  
 
 
